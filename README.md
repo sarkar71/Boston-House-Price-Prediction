@@ -1,12 +1,12 @@
 # Boston-House-Price-Prediction
-Creating a Machine Learning Regression model to predict the home prices in Boston. 
+Creating a Machine Learning Regression model to predict the home prices in Boston.<br /> 
 
-Below data science concepts are used in this project
-  Data loading and cleaning
-  Outlier detection and removal
-  Feature engineering
-Technology and tools used in this project
-  Python
-  Numpy and Pandas for data cleaning
-  Matplotlib for data visualization
-  Sklearn for model building
+Below data science concepts are used in this project: <br /> 
+  Data loading and cleaning <br />
+  Outlier detection and removal <br />
+  Feature engineering <br />
+Technology and tools used in this project <br />
+  Python <br />
+  Numpy and Pandas for data cleaning <br />
+  Matplotlib for data visualization <br />
+  Sklearn for model building<br />
